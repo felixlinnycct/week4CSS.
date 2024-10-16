@@ -1,0 +1,47 @@
+body{
+    position: relative;
+    background-color: rgb(157, 201, 190);
+}
+
+h1{
+    border: thick solid rgb(44, 87, 128);
+    border-radius: 18px;
+    padding: 5px;
+    font: bold 60px "Helvetica", sans-serif;
+    text-align: center;
+    color: rgb(44, 87, 128);
+}
+
+.project{
+    color: rgb(145, 68, 155);
+    font-style: Garamond, serif;
+}
+
+h2{
+    font: small-caps bold 25px;
+    text-decoration: underline rgb(145, 68, 155);
+    text-align: left;
+}
+
+#bio {
+    text-decoration: underline rgb(62, 99, 81);
+    color: rgb(62, 99, 81);
+}
+
+p {
+    font-size: 18px; 
+    margin: 10px 20px 0;
+} 
+
+p.green {
+    color: rgb(41, 65, 53);
+    border: 1px solid rgb(97, 124, 121);
+    border-radius: 18px;
+    background-color: rgb(146, 189, 185);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+
